@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cvruitenbeekcobbler
 - 👀 I’m interested in Rick & Morty, Gaming, watching series with my wife
-- 🌱 I’m currently learning React with Typescript
+- 🌱 I’m currently learning React with Typescript and Redux
 
 <!---
 cvruitenbeekcobbler/cvruitenbeekcobbler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
